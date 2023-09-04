@@ -1,5 +1,3 @@
-![Netflix Clone](https://divya-r-b.github.io/netflix-clone-Db/# Netflix Clone)
-
 A simple Netflix clone built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
@@ -35,6 +33,4 @@ Vscode
 ### Installation
 
 1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/divya-r-b/netflix-clone.git
+   git clone https://github.com/divya-r-b/netflix-clone-Db.git
